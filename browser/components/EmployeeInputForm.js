@@ -45,9 +45,6 @@ export default class extends React.Component{
   }
 
   render(){
-      'props.validate message', this.props.validateMessage
-
-    )
   return (
 
     <div className="static-modal">
